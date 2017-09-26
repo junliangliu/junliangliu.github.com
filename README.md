@@ -4,4 +4,5 @@ DeepLab
 
 ![基于CNN的验证码整体识别](https://github.com/junliangliu/captcha "基于CNN的验证码整体识别")
 ---------
-
+![ResNet的直连结构在一般的深度神经网络上应用效果测试](https://github.com/junliangliu/resnet-test "基于CNN的验证码整体识别")
+---------
