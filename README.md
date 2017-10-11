@@ -6,3 +6,9 @@ DeepLab
 ---------
 ![ResNet的直连结构在一般的深度神经网络上应用效果测试](https://github.com/junliangliu/resnet-test "基于CNN的验证码整体识别")
 ---------
+![基于CNN的验证码整体识别](https://github.com/junliangliu/captcha "基于CNN的验证码整体识别")
+---------
+![机器学习各种应用场景汇总](https://github.com/junliangliu/machine-learning-application "基于CNN的验证码整体识别")
+---------
+![机器学习在量化投资中的应用](https://github.com/junliangliu/machine-learning-application-for-quant "基于CNN的验证码整体识别")
+---------
